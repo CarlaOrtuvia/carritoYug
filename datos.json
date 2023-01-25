@@ -1,0 +1,46 @@
+[
+    {
+        "id" : 1,
+        "title": "Sesion de Terapia Floral",
+        "precio": 5000,
+        "eImag": "eImag/foto-decodificacion.jpg"
+
+    },
+    {
+        "id": 2,
+        "title":"Gotero",
+        "precio":3000,
+        "eImag": "eImag/otero.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Sprays",
+        "precio": 3000,
+        "eImag": "eImag/sprays.jpg"
+    },
+    {
+        "id": 4,
+        "title":"Oraculo",
+        "precio":2500,
+        "eImag":"eImag/oraculo.jpeg"
+    },
+    {
+        "id": 5,
+        "title":"Tirada Simple",
+        "precio": 4000,
+        "eImag":"eImag/tiradaSimple.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Tirada Completa",
+        "precio": 6500,
+        "eImag":"eImag/tiradaCompleta.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Sesión de decodificación Neuroemocional",
+        "precio": 8500,
+        "eImag": "eImag/bioDecodifi.jpeg"
+    }
+
+]
