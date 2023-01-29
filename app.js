@@ -7,6 +7,7 @@ const templateCarrito = document.getElementById('template-carrito').content
 const fragment = document.createDocumentFragment()
 let carrito = {}
 
+
 document.addEventListener('DOMContentLoaded', () =>{
         fetchData()
         if(localStorage.getItem('carrito')){
@@ -131,3 +132,4 @@ const btnAccion = e => {
     }
     e.stopPropagation()
 }
+
